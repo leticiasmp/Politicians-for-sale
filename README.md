@@ -78,7 +78,4 @@ Desta forma, por meio da análise prévia dos dados, podemos concluir que a úni
 - Acompanhamento das ações políticas das pessoas que mais doaram recursos na campanhas eleitorais de políticos eleitos.
 - Estabelecimento de cotas para eleições de políticos de acordo com as minorias presentes na sociedade de forma mais efetiva do que a atual política de cota para gênero estabelecida em cima das candidaturas.
 =======
-git init
-git add README.md *.png
-git commit -m "Adiciona README e imagens PNG"
->>>>>>> 53e91df3751c8fed368dd942e38e0c6d8b67071e
+
